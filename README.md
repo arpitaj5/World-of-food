@@ -5,4 +5,6 @@ Here is how the final network looks like.
 
 Now let's identify the clusters. It is interesting to see how the ingredients of a particular cuisine form a separate group.
 
+![picture2](https://user-images.githubusercontent.com/30159866/39403361-0c80a546-4b2f-11e8-8cd3-96da2c99dfd3.png)
 
+Note: Click on the images and zoom in to view the ingredient names.
